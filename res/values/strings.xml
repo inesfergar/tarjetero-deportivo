@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tarjetero Deportivo</string>
+
+    <string-array name="multas">
+        <item>Llegar tarde al entrenamiento: 1€</item>
+        <item>Llegar tarde al partido: 3€</item>
+        <item>Tarjeta amarilla: 1€</item>
+        <item>Tarjeta roja: 2€</item>
+        <item>Se olvida de material: 2€</item>
+
+    </string-array>
+
+    <string-array name="listajugadoras">
+        <item>Inés</item>
+        <item>Julia</item>
+        <item>Elisa</item>
+
+    </string-array>
+
+</resources>
